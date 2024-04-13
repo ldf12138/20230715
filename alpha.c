@@ -2,7 +2,9 @@
 
 int main(){
 
-	printf("大菜菜");
+
+	printf("haha");
+	printf("  大菜菜 ");
 
 	return 0;
 
